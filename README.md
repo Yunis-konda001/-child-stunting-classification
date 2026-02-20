@@ -1,5 +1,12 @@
 # Child Stunting Classification using Machine Learning
 
+## Author
+
+**Kumi Yunis Konda**  
+Course: Introduction to Machine Learning  
+Facilitator: Dirac Murairi  
+Date: February 21, 2026
+
 ## Overview
 
 This project uses machine learning and deep learning to predict child stunting. I compare 7 different models to find the best one for identifying children at risk of malnutrition.
